@@ -1,7 +1,7 @@
 # Odoo-WooCommerce Sync
 
 <p align="center">
-  <img src="./media/odoo-woocommerce-sync-logo.png" alt="Odoo-WooCommerce Sync" style="max-width: 100%; height: auto;">
+  <img src="./media/odoo-woocommerce-sync-logo.png" alt="Odoo-WooCommerce Sync" style="max-width: 80%; max-height: 300px; height: auto;">
 </p>
 
 <br>
